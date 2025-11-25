@@ -16,7 +16,7 @@
       <strong>Shuhao Kang<sup>*</sup></strong>, Youqi Liao<sup>*</sup>, Yan Xia<sup>&#8224;</sup>, Olaf Wysocki, Boris Jutzi, Daniel Cremers;<br>
       <i>Conference on Robot Learning (CoRL)</i>, 2025<br>
       <a href="https://arxiv.org/abs/2504.19258">[arXiv]</a>
-      [Code]
+      <a href="https://github.com/kang-1-2-3/OPAL">[Code]</a>
       [Official Version]
     </li>
   </ul>
