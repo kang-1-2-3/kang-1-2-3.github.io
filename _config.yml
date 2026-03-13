@@ -21,7 +21,7 @@ title                    : "Shuhao Kang's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shuhao Kang 康书豪"
-description              : "Master student @ Geodesy and Geoinformation, Technical University of Munich."
+description              : "Incoming Ph.D. student in Computer Science at Nankai University."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Shuhao Kang 康书豪"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master student @ Geodesy and Geoinformation, Technical University of Munich."
-  location         : "Shanghai, China"
+  bio              : "Incoming Ph.D. student in Computer Science at Nankai University."
+  location         : "Tianjin, China"
   # email            : "shuhao.kang@tum.de"
   links:
     - label: "Email"
