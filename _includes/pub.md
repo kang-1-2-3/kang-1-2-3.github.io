@@ -7,6 +7,21 @@
   <strong>Notes:</strong> Joint first authors are indicated using * and corresponding authors are indicated using <sup>&#8224;</sup>.
 </div>
 
+<!-- 2026 -->
+<h3>2026</h3>
+<div style="margin-bottom: 1.5em;">
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 1em;">
+      <b>VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models</b><br>
+      <strong>Shuhao Kang</strong>, Youqi Liao,Peijie Wang, Wenlong Liao, Qilin Zhang, Xieyuanli Chen<sup>&#8224;</sup>, Yun Liu<sup>&#8224;</sup>;<br>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2026<br>
+      <a href="https://arxiv.org/pdf/2603.09826">[arXiv]</a>
+      <a href="https://github.com/MCG-NKU/nku-3d-vision">[Code]</a>
+      [Official Version]
+    </li>
+  </ul>
+</div>
+
 <!-- 2025 -->
 <h3>2025</h3>
 <div style="margin-bottom: 1.5em;">
@@ -17,7 +32,7 @@
       <i>Conference on Robot Learning (CoRL)</i>, 2025<br>
       <a href="https://arxiv.org/abs/2504.19258">[arXiv]</a>
       <a href="https://github.com/kang-1-2-3/OPAL">[Code]</a>
-      [Official Version]
+      <a href="https://raw.githubusercontent.com/mlresearch/v305/main/assets/kang25b/kang25b.pdf">[Official Version]</a>
     </li>
   </ul>
 </div>
