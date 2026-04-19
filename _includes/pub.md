@@ -13,8 +13,8 @@
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li style="margin-bottom: 1em;">
       <b>VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models</b><br>
-      <strong>Shuhao Kang</strong>, Youqi Liao,Peijie Wang, Wenlong Liao, Qilin Zhang, Xieyuanli Chen<sup>&#8224;</sup>, Yun Liu<sup>&#8224;</sup>;<br>
-      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2026<br>
+      <strong>Shuhao Kang</strong>, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, Xieyuanli Chen<sup>&#8224;</sup>, Yun Liu<sup>&#8224;</sup>;<br>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2026, <b>Highlight</b><br>
       <a href="https://arxiv.org/pdf/2603.09826">[arXiv]</a>
       <a href="https://github.com/MCG-NKU/nku-3d-vision">[Code]</a>
       [Official Version]
