@@ -30,7 +30,7 @@ author_profile: true
 } -->
 
 
-I will begin my Ph.D. in Computer Science at [Nankai University](https://en.nankai.edu.cn/), supervised by Prof. [Yun Liu](https://yun-liu.github.io/). Previously, I studied Geodesy and Geoinformation in the M.Sc. program at [Technical University of Munich](https://www.tum.de/en/) and received my Bachelor's degree from [Wuhan University](https://en.whu.edu.cn/) in 2023.
+I am now a Ph.D. student in Computer Science at [Nankai University](https://en.nankai.edu.cn/), supervised by Prof. [Yun Liu](https://yun-liu.github.io/). Previously, I studied Geodesy and Geoinformation in the M.Sc. program at [Technical University of Munich](https://www.tum.de/en/) and received my Bachelor's degree from [Wuhan University](https://en.whu.edu.cn/) in 2023.
 
 My research interests include agentic reasoning, SLAM and efficient AI.
 

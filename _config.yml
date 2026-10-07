@@ -21,7 +21,7 @@ title                    : "Shuhao Kang's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shuhao Kang 康书豪"
-description              : "Incoming Ph.D. student in Computer Science at Nankai University."
+description              : "Ph.D. student in Computer Science at Nankai University."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Shuhao Kang 康书豪"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Incoming Ph.D. student in Computer Science at Nankai University."
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Ph.D. student in Computer Science at Nankai University."
   location         : "Tianjin, China"
   # email            : "shuhao.kang@tum.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shuhao.kang@tum.de"
+      url: "mailto:shuhao.kang@mail.nankai.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -167,6 +167,9 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - index.html # Use index.md as the homepage source.
+  - y
+  - y.pub
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

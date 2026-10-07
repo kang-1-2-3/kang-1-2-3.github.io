@@ -20,6 +20,33 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Frame the head and shoulders while preserving the original photo.
+.author__avatar > a {
+  display: block;
+  position: relative;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  border-radius: 50%;
+
+  @include breakpoint($large) {
+    width: 110px;
+    height: 110px;
+  }
+
+  img {
+    position: absolute;
+    width: 218.18%;
+    max-width: none;
+    height: auto;
+    left: -95.45%;
+    top: -81.82%;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+  }
+}
 // $doc-font-size: 16px !default;
 // $type-size-1: 2.441em !default; // ~39.056px
 // $type-size-2: 1.953em !default; // ~31.248px

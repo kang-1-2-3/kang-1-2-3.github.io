@@ -2,6 +2,16 @@
 
 <div style="margin-top: 1em;">
 
+<!-- NKU -->
+<div style="display: flex; align-items: center; margin-bottom: 1.5em;">
+  <img src="./assets/images/nku.jpg" alt="NKU Logo" width="70" style="margin-right: 15px;">
+  <div>
+    <strong>Nankai University</strong><br>
+    <span>Sep. 2026 – Present</span><br>
+    <span>Ph.D. in Computer Science</span>
+  </div>
+</div>
+
 <!-- TUM -->
 <div style="display: flex; align-items: center; margin-bottom: 1.5em;">
   <img src="./assets/images/tum.svg" alt="TUM Logo" width="70" style="margin-right: 15px;">
